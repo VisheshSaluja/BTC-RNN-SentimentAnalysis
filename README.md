@@ -5,7 +5,8 @@ The main purpose of the project is to compare the accuracy of the two RNN models
 
 
 This the Graph for LSTM model
-<img width="234" alt="image" src="https://user-images.githubusercontent.com/70054173/184388147-f6f8e429-7f4a-4537-8b62-624b0cdede1f.png">
+![image](https://user-images.githubusercontent.com/70054173/184388495-ab7cf9c4-1d7c-4754-94bb-cd45b17a62cb.png)
+
 
 This is the Graph for GRU model
 ![image](https://user-images.githubusercontent.com/70054173/184388379-304837a0-20f8-4b2f-8809-def0a3733233.png)
