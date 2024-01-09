@@ -1,4 +1,4 @@
-# Crypto-Prediction---Basic-RNN-Model
+# BTC Price analysis using RNN(LSTM & GRU)
 This project is based on RNN to compare the accuracy of prediction using GRU and LSTM model.
 This model takes in data for a given set of days(which can be changed) and then predicts the price on a particular given day.
 The main purpose of the project is to compare the accuracy of the two RNN models and to check which one works better.
