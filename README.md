@@ -35,15 +35,15 @@ The model consists of 6 layers:
 ![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/04915091-8845-40fd-b5a9-8ebcb5655f19)
 
 ## Evaluation metrics used 
-  -Accuracy
-  -Precision
-  -Recall
-  -F1 Score
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
   ###Result:
-    Accuracy  : 0.7872
-    Precision : 0.8321
-    Recall    : 0.7458
-    F1 Score  : 0.7866
+    1. Accuracy  : 0.7872
+    2. Precision : 0.8321
+    3. Recall    : 0.7458
+    4. F1 Score  : 0.7866
 ![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/eb12081e-d4a8-493a-bada-4b8f7f064f18)
 
 ### Confusion Matrix
