@@ -39,7 +39,7 @@ The model consists of 6 layers:
   - Precision
   - Recall
   - F1 Score
-  ###Result:
+###Result:
     1. Accuracy  : 0.7872
     2. Precision : 0.8321
     3. Recall    : 0.7458
