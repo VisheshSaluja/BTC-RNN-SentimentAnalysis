@@ -11,3 +11,40 @@ This the Graph for LSTM model
 This is the Graph for GRU model
 ![image](https://user-images.githubusercontent.com/70054173/184388379-304837a0-20f8-4b2f-8809-def0a3733233.png)
 
+
+
+# BTC Sentiment Analysis
+The sentiment analysis is performed using vader which helps the model to create and evaluate negative, positive, neutral sentiments.
+Then the sentments are shown using plots.
+
+## negative v positive
+![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/c2715d4d-f394-44f2-906c-a213de68fbcf)
+
+## neutral v positive
+![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/5db2f379-584b-4cfb-a6bb-c1976afc5cd2)
+
+
+The model consists of 6 layers:
+1. Embedded Layer
+2. 1D Convolutional Layer
+3. MaxPooling1D Layer
+4. Bidirectional LSTM Layer
+5. Dropout Layer
+6. Dense Layer
+
+![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/04915091-8845-40fd-b5a9-8ebcb5655f19)
+
+## Evaluation metrics used 
+  -Accuracy
+  -Precision
+  -Recall
+  -F1 Score
+![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/eb12081e-d4a8-493a-bada-4b8f7f064f18)
+
+### Confusion Matrix
+![image](https://github.com/VisheshSaluja/BTC-RNN-SentimentAnalysis/assets/70054173/e1aca632-cdb1-408f-a3f1-5d16ca8c064d)
+
+
+
+
+
